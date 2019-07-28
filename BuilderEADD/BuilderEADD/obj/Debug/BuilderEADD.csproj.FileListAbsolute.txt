@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\BuilderEADD\BuilderEADD\bin\Debug\BuilderEADD.exe.config
+C:\Users\Asus\Desktop\BuilderEADD\BuilderEADD\bin\Debug\BuilderEADD.exe
+C:\Users\Asus\Desktop\BuilderEADD\BuilderEADD\bin\Debug\BuilderEADD.pdb
+C:\Users\Asus\Desktop\BuilderEADD\BuilderEADD\obj\Debug\BuilderEADD.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\BuilderEADD\BuilderEADD\obj\Debug\BuilderEADD.exe
+C:\Users\Asus\Desktop\BuilderEADD\BuilderEADD\obj\Debug\BuilderEADD.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\factoryEADD\factoryEADD\bin\Debug\factoryEADD.exe.config
+C:\Users\Asus\Desktop\factoryEADD\factoryEADD\bin\Debug\factoryEADD.exe
+C:\Users\Asus\Desktop\factoryEADD\factoryEADD\bin\Debug\factoryEADD.pdb
+C:\Users\Asus\Desktop\factoryEADD\factoryEADD\obj\Debug\factoryEADD.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\factoryEADD\factoryEADD\obj\Debug\factoryEADD.exe
+C:\Users\Asus\Desktop\factoryEADD\factoryEADD\obj\Debug\factoryEADD.pdb

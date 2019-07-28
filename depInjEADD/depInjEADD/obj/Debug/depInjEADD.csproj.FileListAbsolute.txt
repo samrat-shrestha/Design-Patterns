@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\depInjEADD\depInjEADD\bin\Debug\depInjEADD.exe.config
+C:\Users\Asus\Desktop\depInjEADD\depInjEADD\bin\Debug\depInjEADD.exe
+C:\Users\Asus\Desktop\depInjEADD\depInjEADD\bin\Debug\depInjEADD.pdb
+C:\Users\Asus\Desktop\depInjEADD\depInjEADD\obj\Debug\depInjEADD.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\depInjEADD\depInjEADD\obj\Debug\depInjEADD.exe
+C:\Users\Asus\Desktop\depInjEADD\depInjEADD\obj\Debug\depInjEADD.pdb

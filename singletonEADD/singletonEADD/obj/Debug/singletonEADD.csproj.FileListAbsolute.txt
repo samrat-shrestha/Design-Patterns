@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\singletonEADD\singletonEADD\bin\Debug\singletonEADD.exe.config
+C:\Users\Asus\Desktop\singletonEADD\singletonEADD\bin\Debug\singletonEADD.exe
+C:\Users\Asus\Desktop\singletonEADD\singletonEADD\bin\Debug\singletonEADD.pdb
+C:\Users\Asus\Desktop\singletonEADD\singletonEADD\obj\Debug\singletonEADD.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\singletonEADD\singletonEADD\obj\Debug\singletonEADD.exe
+C:\Users\Asus\Desktop\singletonEADD\singletonEADD\obj\Debug\singletonEADD.pdb

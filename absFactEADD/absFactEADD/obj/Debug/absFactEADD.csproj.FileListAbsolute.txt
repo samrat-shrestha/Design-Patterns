@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\absFactEADD\absFactEADD\bin\Debug\absFactEADD.exe.config
+C:\Users\Asus\Desktop\absFactEADD\absFactEADD\bin\Debug\absFactEADD.exe
+C:\Users\Asus\Desktop\absFactEADD\absFactEADD\bin\Debug\absFactEADD.pdb
+C:\Users\Asus\Desktop\absFactEADD\absFactEADD\obj\Debug\absFactEADD.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\absFactEADD\absFactEADD\obj\Debug\absFactEADD.exe
+C:\Users\Asus\Desktop\absFactEADD\absFactEADD\obj\Debug\absFactEADD.pdb
